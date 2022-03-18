@@ -1,0 +1,17 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/card.js": "components/card.js",
+    "pages/index.js": "pages/index.js",
+    "pages/product/_slug.js": "pages/product/_slug.js",
+    "pages/search.js": "pages/search.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/card.js": "components/card.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/product/_slug.js": "pages/product/_slug.js.map",
+    "pages/search.js": "pages/search.js.map",
+    "server.js": "server.js.map"
+  }
+}

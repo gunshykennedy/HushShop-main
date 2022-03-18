@@ -1,0 +1,23 @@
+[
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "C:\\\\Users\\\\Profile\\\\Playground\\\\HushShop-main\\\\HushShop-main\\\\pages\\\\search.vue",
+    "chunkName": "pages/search",
+    "_name": "_37ff851b"
+  },
+  {
+    "name": "product-slug",
+    "path": "/product/:slug?",
+    "component": "C:\\\\Users\\\\Profile\\\\Playground\\\\HushShop-main\\\\HushShop-main\\\\pages\\\\product\\\\_slug.vue",
+    "chunkName": "pages/product/_slug",
+    "_name": "_4dd819a4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Profile\\\\Playground\\\\HushShop-main\\\\HushShop-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_36129a2f"
+  }
+]
